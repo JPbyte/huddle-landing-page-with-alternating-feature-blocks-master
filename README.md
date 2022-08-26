@@ -34,7 +34,7 @@ Desktop design
 ### Links
 
 - Solution URL: [Huddle landing page with alternating feature blocks solution]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ## My process
 
